@@ -1,4 +1,4 @@
-# [FreeCodeCamp](https://freecodecamp.org)
+# [FreeCodeCamp](https://freecodecamp.org)❤🐱‍🏍
 
 ## `Course` : [Coding Interview Preparation](https://www.freecodecamp.org/learn/coding-interview-prep/)
 
