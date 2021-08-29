@@ -12,3 +12,4 @@
 * [Bubble Sort](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/implement-bubble-sort)
 * [Selection Sort](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/implement-selection-sort)
 * [Pairwise](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/pairwise)
+* [Insertion Sort](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/implement-insertion-sort)
