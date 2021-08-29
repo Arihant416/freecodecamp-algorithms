@@ -11,3 +11,4 @@
 * [Inventory update](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/inventory-update)
 * [Bubble Sort](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/implement-bubble-sort)
 * [Selection Sort](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/implement-selection-sort)
+* [Pairwise](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/pairwise)
