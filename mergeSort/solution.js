@@ -9,11 +9,6 @@ function mergeUtil(left, right) {
 			resList.push(right[rightIndex++]);
 		}
 	}
-	console.log({
-		resList,
-		left,
-		right,
-	});
 	return resList.concat(left.slice(leftIndex)).concat(right.slice(rightIndex));
 }
 
@@ -24,11 +19,6 @@ function mergeSort(list) {
 	let midIndex = Math.floor(list.length / 2);
 	let leftList = list.slice(0, midIndex);
 	let rightList = list.slice(midIndex);
-	console.log({
-		list,
-		leftList,
-		rightList,
-	});
 	return mergeUtil(mergeSort(leftList), mergeSort(rightList));
 }
 
